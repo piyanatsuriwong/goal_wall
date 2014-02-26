@@ -1,0 +1,11 @@
+<module rename-to='mappy'>
+  <inherits name='playn.PlayN'/>
+  <inherits name='MyGameAssets'/>
+
+  <source path='core'/>
+  <source path='html'/>
+
+  <public path="resources" />
+
+  <entry-point class='sut.mappy.html.MyGameHtml'/>
+</module>
